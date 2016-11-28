@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Bill Total"
+        android:text="Bill Total (U.S. Dollars)"
         android:id="@+id/textView"
         android:layout_gravity="center_horizontal" />
 
@@ -30,7 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Tip Percentage"
+        android:text="Tip Percentages"
         android:id="@+id/textView2"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp" />
@@ -74,7 +74,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Tip - $0.00"
+        android:text="0% Tip - $0.00"
         android:id="@+id/tipTotalTextView"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
