@@ -24,7 +24,8 @@
         android:inputType="numberDecimal"
         android:ems="10"
         android:id="@+id/billTotalEditText"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center" />
 
     <TextView
         android:layout_width="wrap_content"
